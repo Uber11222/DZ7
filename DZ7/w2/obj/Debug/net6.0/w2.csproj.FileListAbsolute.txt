@@ -1,0 +1,15 @@
+F:\GeekStud\Test1\DZ7\w2\bin\Debug\net6.0\w2.exe
+F:\GeekStud\Test1\DZ7\w2\bin\Debug\net6.0\w2.deps.json
+F:\GeekStud\Test1\DZ7\w2\bin\Debug\net6.0\w2.runtimeconfig.json
+F:\GeekStud\Test1\DZ7\w2\bin\Debug\net6.0\w2.dll
+F:\GeekStud\Test1\DZ7\w2\bin\Debug\net6.0\w2.pdb
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.csproj.AssemblyReference.cache
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.AssemblyInfoInputs.cache
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.AssemblyInfo.cs
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.csproj.CoreCompileInputs.cache
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.dll
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\refint\w2.dll
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.pdb
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\w2.genruntimeconfig.cache
+F:\GeekStud\Test1\DZ7\w2\obj\Debug\net6.0\ref\w2.dll
